@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="approvaltests.CounterDisplay" type="repository">
+    <properties maven-id="com.approvaltests:CounterDisplay:24.3.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/approvaltests/CounterDisplay/24.3.0/CounterDisplay-24.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/approvaltests/approvaltests-util/24.3.0/approvaltests-util-24.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/approvaltests/CounterDisplay/24.3.0/CounterDisplay-24.3.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/approvaltests/approvaltests-util/24.3.0/approvaltests-util-24.3.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/approvaltests/CounterDisplay/24.3.0/CounterDisplay-24.3.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/approvaltests/approvaltests-util/24.3.0/approvaltests-util-24.3.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
